@@ -10,3 +10,5 @@
 
 ### 자동 마스크 생성에 사용될 모델
 #### - jupyter notebook 환경에서 제작
+#### - https://www.kaggle.com/kairess/human-segmentation 에서 이미지와 이미지 마스크 데이터 이용
+#### - CNN ResNet 아키텍쳐 이용하여 모델 학습
